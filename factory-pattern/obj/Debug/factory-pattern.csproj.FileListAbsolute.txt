@@ -1,0 +1,7 @@
+C:\Users\ASUS\Source\Repos\factory-pattern\factory-pattern\obj\Debug\factory-pattern.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\factory-pattern\factory-pattern\obj\Debug\factory-pattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\factory-pattern\factory-pattern\bin\Debug\factory-pattern.exe.config
+C:\Users\ASUS\Source\Repos\factory-pattern\factory-pattern\bin\Debug\factory-pattern.exe
+C:\Users\ASUS\Source\Repos\factory-pattern\factory-pattern\bin\Debug\factory-pattern.pdb
+C:\Users\ASUS\Source\Repos\factory-pattern\factory-pattern\obj\Debug\factory-pattern.exe
+C:\Users\ASUS\Source\Repos\factory-pattern\factory-pattern\obj\Debug\factory-pattern.pdb
